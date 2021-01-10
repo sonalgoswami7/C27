@@ -1,5 +1,3 @@
-# angryBirdsStage2.5
-Angry Birds stage 2.5 with Class Inheritance and Images
 class Bird extends BaseClass {
   constructor(x,y){
     super(x,y,50,50);
